@@ -1,0 +1,13 @@
+/.settings
+/target
+/.classpath
+/.project
+/lardicore.log
+.idea
+.gradle
+*.iml
+/nb-configuration.xml
+/nbactions.xml
+
+# EduTools
+/**/production/classes/*
