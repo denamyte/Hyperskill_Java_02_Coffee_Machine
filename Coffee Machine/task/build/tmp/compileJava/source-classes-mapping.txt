@@ -1,2 +1,5 @@
+previous/CoffeeMachine3.java
+ previous.CoffeeMachine3
 machine/CoffeeMachine.java
  machine.CoffeeMachine
+ machine.CoffeeMachine$Amount
