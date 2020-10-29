@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-24T19:40:35" hostname="denamyte-VB" time="0.477">
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-29T01:54:28" hostname="denamyte-VB" time="0.697">
   <properties/>
-  <testcase name="start" classname="CoffeeMachineTest" time="0.477"/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.697"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Write action (buy, fill, take, remaining, exit): 

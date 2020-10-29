@@ -1,11 +1,14 @@
-machine/CoffeeMachinePrev.java
- machine.CoffeeMachinePrev
- machine.CoffeeMachinePrev$Amount
-previous/CoffeeMachine3.java
- previous.CoffeeMachine3
 previous/CoffeeMachine4.java
  previous.CoffeeMachine4
  previous.CoffeeMachine4$Amount
+previous/CoffeeMachine3.java
+ previous.CoffeeMachine3
+previous/CoffeeMachine5.java
+ previous.CoffeeMachine5
+ previous.CoffeeMachine5$Amount
 machine/CoffeeMachine.java
  machine.CoffeeMachine
+ machine.CoffeeMachine$1
  machine.CoffeeMachine$Amount
+ machine.CoffeeMachine$State
+ machine.CoffeeMachine$TopLevelCommand
